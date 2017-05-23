@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:90f56806-e600-4f4b-b1ca-b5f53c17c0d4</dc:identifier>
+    <dc:date opf:event="modification">2017-03-01</dc:date>
+    <meta content="0.9.7" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="clip_image004_thumb.jpg" href="Images/clip_image004_thumb.jpg" media-type="image/jpeg"/>
+    <item id="clip_image006_thumb.jpg" href="Images/clip_image006_thumb.jpg" media-type="image/jpeg"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/Section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0017.xhtml" href="Text/Section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0018.xhtml" href="Text/Section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0019.xhtml" href="Text/Section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0020.xhtml" href="Text/Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0021.xhtml" href="Text/Section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0022.xhtml" href="Text/Section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0023.xhtml" href="Text/Section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0024.xhtml" href="Text/Section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0025.xhtml" href="Text/Section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0026.xhtml" href="Text/Section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0027.xhtml" href="Text/Section0027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0028.xhtml" href="Text/Section0028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0029.xhtml" href="Text/Section0029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0030.xhtml" href="Text/Section0030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0031.xhtml" href="Text/Section0031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0032.xhtml" href="Text/Section0032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0033.xhtml" href="Text/Section0033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="clip_image010.jpg" href="Images/clip_image010.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="Section0019.xhtml"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0021.xhtml"/>
+    <itemref idref="Section0022.xhtml"/>
+    <itemref idref="Section0023.xhtml"/>
+    <itemref idref="Section0024.xhtml"/>
+    <itemref idref="Section0025.xhtml"/>
+    <itemref idref="Section0026.xhtml"/>
+    <itemref idref="Section0027.xhtml"/>
+    <itemref idref="Section0028.xhtml"/>
+    <itemref idref="Section0029.xhtml"/>
+    <itemref idref="Section0030.xhtml"/>
+    <itemref idref="Section0031.xhtml"/>
+    <itemref idref="Section0032.xhtml"/>
+    <itemref idref="Section0033.xhtml"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

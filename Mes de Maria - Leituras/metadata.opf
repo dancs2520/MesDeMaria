@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">166143d9-f776-445a-b57a-8c7d60d7e12b</dc:identifier>
+        <dc:title>Mês de Maria: Leituras</dc:title>
+        <dc:creator opf:file-as="Pereira, Mons. Dr. José Basilio" opf:role="aut">Mons. Dr. José Basilio Pereira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.33.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-04T03:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta content="{&quot;Mons. Dr. José Basilio Pereira&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Mês de Maria" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2015-08-04T14:10:18.271000+00:00" name="calibre:timestamp"/>
+        <meta content="Mês de Maria: Leituras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Capas" type="cover"/>
+    </guide>
+</package>
